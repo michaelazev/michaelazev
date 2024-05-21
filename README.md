@@ -28,6 +28,7 @@
 ###
 
 <div align="left">
+  <a href="https://br.linkedin.com/in/michael-azevedo-4a4a62289/==" target="_black">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://www.instagram.com/michael.azv/==" target="_blank">
