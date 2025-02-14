@@ -1,4 +1,4 @@
-<h2 align="left">Olá, Eu sou Michael Azevedo! 👋</h2>
+<h2 align="left">Olá, sou Dev e me chamo Michael Azevedo! 👋</h2>
 
 ###
 
