@@ -1,4 +1,11 @@
-# 💫 Seja Bem Vindo ao Meu Mundo:
+<h1 align="center">👑 Olá, Seja Bem Vindo! Sou Michael Azevedo 👑</h1>
+<p align="center"><em>"Código limpo, dados inteligentes, resultados reais"</em></p>
+
+<p align="center">
+  <img src="https://media.tenor.com/3bNpJ9JKnz8AAAAC/coding-anime.gif" width="200" alt="Anime girl coding">
+</p>
+
+# 💫 Sobre Mim:
 🚀 Full Stack Developer focused on building scalable and efficient applications  <br>📊 Passionate about Data Analysis, transforming data into insights for decision-making  <br>🤖 Enthusiast of automation, creating solutions that optimize processes and save time  <br>💡 Strong interest in backend development, system architecture, and distributed systems 
 
 
