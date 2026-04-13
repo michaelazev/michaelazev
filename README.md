@@ -1,4 +1,4 @@
-<h1 align="center">👑 Olá, Seja Bem Vindo! Sou Michael Azevedo 👑</h1>
+<h1 align="center">👑 Olá, Sou Michael Azevedo! 👑</h1>
 <p align="center"><em>"Código limpo, dados inteligentes, resultados reais"</em></p>
 
 <p align="center">
